@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_341\bin\javac" Bilet30.java > erori.txt 2>&1
